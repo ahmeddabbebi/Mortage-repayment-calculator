@@ -1,3 +1,4 @@
-# Mortgage Repayment Calculator with React challenge by Frontend Mentor. 
+# Mortgage Repayment Calculator with ReactJS 
+challenge by Frontend Mentor.
 
 
